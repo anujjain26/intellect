@@ -1,0 +1,47 @@
+[
+{
+  "id": "aj1001",
+  "fname": "anuj",
+  "lname": "jain",
+  "email": "aj@gmail.com",
+  "pinCode": "411047",
+  "birthDate": "07-JAN-1993",
+  "isActive": "true"
+},
+{
+  "id": "sk1001",
+  "fname": "shweta",
+  "lname": "k",
+  "email": "sk@gmail.com",
+  "pinCode": "411047",
+  "birthDate": "09-JAN-1992",
+  "isActive": "true"
+},
+{
+  "id": "jk1001",
+  "fname": "jassi",
+  "lname": "singh",
+  "email": "jk@gmail.com",
+  "pinCode": "411047",
+  "birthDate": "07-JAN-1993",
+  "isActive": "true"
+},
+{
+  "id": "sm1001",
+  "fname": "sam",
+  "lname": "mishra",
+  "email": "sm@gmail.com",
+  "pinCode": "411047",
+  "birthDate": "07-JAN-1990",
+  "isActive": "true"
+},
+{
+  "id": "jk1002",
+  "fname": "jass",
+  "lname": "kaur",
+  "email": "jk1@gmail.com",
+  "pinCode": "411047",
+  "birthDate": "07-NOV-1993",
+  "isActive": "false"
+}
+]
